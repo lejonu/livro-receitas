@@ -1,4 +1,6 @@
-# Strogonoff de frango :chicken:
+# Strogonoff de frango[^1] :chicken:
+
+![alt text](https://images.aws.nestle.recipes/resized/01f092c73c1af308481c0fe18e7968a9_strogonoff-frango-receitas-nestle_1200_600.jpg "Strogonoff Perkles")
 
 ### Ingredientes
 
@@ -18,3 +20,5 @@
 2. Assim que o frango estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e champignon a gosto.
 3. Abaixe o fogo e coloque o creme de leite e mexa bem até se tornar um creme homogêneo.
 4. Está pronto para servir.
+
+[^1]: Receita do curso de git pelo Mestre Otávio Reis (Perkles).
