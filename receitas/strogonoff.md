@@ -1,6 +1,6 @@
 # Strogonoff de frango[^1] :chicken:
 
-![alt text](https://cdn.aquelareceita.com.br/recipes/image-1641398585697-1641924665400.png) "Strogonoff Perkles")
+![alt text](https://cdn.aquelareceita.com.br/recipes/image-1641398585697-1641924665400.png "Strogonoff Perkles")
 
 ### Ingredientes
 
